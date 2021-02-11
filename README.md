@@ -1,2 +1,2 @@
-# odant-documentatin
+# odant-documentation
 Documentation technologe ODANT
